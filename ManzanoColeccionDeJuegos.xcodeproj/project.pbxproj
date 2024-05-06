@@ -14,6 +14,7 @@
 		8CF463B62BE98CF900A21724 /* ManzanoColeccionDeJuegos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8CF463B42BE98CF900A21724 /* ManzanoColeccionDeJuegos.xcdatamodeld */; };
 		8CF463B82BE98CF900A21724 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8CF463B72BE98CF900A21724 /* Assets.xcassets */; };
 		8CF463BB2BE98CF900A21724 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8CF463B92BE98CF900A21724 /* LaunchScreen.storyboard */; };
+		8CF463C32BE9924200A21724 /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CF463C22BE9924200A21724 /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		8CF463B72BE98CF900A21724 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8CF463BA2BE98CF900A21724 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8CF463BC2BE98CF900A21724 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8CF463C22BE9924200A21724 /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				8CF463B92BE98CF900A21724 /* LaunchScreen.storyboard */,
 				8CF463BC2BE98CF900A21724 /* Info.plist */,
 				8CF463B42BE98CF900A21724 /* ManzanoColeccionDeJuegos.xcdatamodeld */,
+				8CF463C22BE9924200A21724 /* JuegosViewController.swift */,
 			);
 			path = ManzanoColeccionDeJuegos;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8CF463C32BE9924200A21724 /* JuegosViewController.swift in Sources */,
 				8CF463B02BE98CF900A21724 /* ViewController.swift in Sources */,
 				8CF463AC2BE98CF900A21724 /* AppDelegate.swift in Sources */,
 				8CF463B62BE98CF900A21724 /* ManzanoColeccionDeJuegos.xcdatamodeld in Sources */,
